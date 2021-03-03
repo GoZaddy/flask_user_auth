@@ -1,0 +1,3 @@
+Flask~=1.1.2
+python-dotenv==0.15.0
+mongoengine~=0.22.1
